@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","variaveis.scss"],"names":[],"mappings":"AACA,KACI,WCFW","file":"../main.css","sourcesContent":["@use 'variaveis';\r\nbody {\r\n    background: variaveis.$corPrincipal;\r\n}","$corPrincipal: rgb(0, 132, 255);"]}
